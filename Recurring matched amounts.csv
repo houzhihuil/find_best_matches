@@ -1,0 +1,5 @@
+Trans #, Type, Date_cash, Num, Name, Memo, Amount, Catalog_Index, Date_bank, Description, Debit, Credit, Balance, Score
+3547,Transfer,2023-05-22,,Cambridge Global Payments,CAMBRIDGE MERC  1,-1061.93,0,2023-05-23,CAMBRIDGE MERC   MSP1,1061.93,,32829.77,89
+3548,Transfer,2023-05-23,,Cambridge Global Payments,CAMBRIDGE MERC  2,-1061.93,1,2023-05-24,CAMBRIDGE MERC   MSP2,1061.93,,32829.77,89
+3782,Cheque,2023-05-31,,TD Canada Trust,MONTHLY PLAN FEE  xyz,-39.0,0,2023-05-31,MONTHLY PLAN FEE    xyz,39.0,,28706.57,95
+4003,Cheque,2023-05-31, ,,MONTHLY PLAN FEE    abc,-39.0,1,2023-05-31,MONTHLY PLAN FEE    abc,39.0,,28706.57,100
